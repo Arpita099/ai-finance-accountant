@@ -1,0 +1,7 @@
+openai
+langchain
+pyttsx3
+SpeechRecognition
+faiss-cpu
+pipwin
+pyaudio
